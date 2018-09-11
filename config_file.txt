@@ -1,3 +1,5 @@
 #This is the configuration file
 
 #This file used for the input to the c file 
+
+Base_value=10
