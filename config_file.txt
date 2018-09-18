@@ -2,4 +2,4 @@
 
 #This file used for the input to the c file 
 
-Base_value=13
+Base_value=100
